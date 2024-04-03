@@ -12,7 +12,6 @@ Este é um simples programa de lista de compras desenvolvido em JavaScript. Ele 
 
 ## Depedencias
 readline-sync
-jquery
 
 ## Uso
 
